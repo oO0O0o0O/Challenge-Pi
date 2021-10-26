@@ -7,7 +7,7 @@ Pi is equal to the proportion of the area of a circle
 divided by the area of a square of length r. We can place this square
 with one corner at the center of the circle and flush to the a/y axises,
 thereby overlaping with the top-right quarter of the circle. This overlaping
-area of the circle is represented by a.
+area of the circle is represented by <i>a</i>.
 pi = 4a/(r)^2
 
 This proportion can be created by evenly placing dots in the square, dividing
